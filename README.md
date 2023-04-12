@@ -8,7 +8,7 @@ Use Ansight to record, replay and analyse testing sessions of your Android apps.
 
 Simplify your teams communication; talk about how to solve the bug, not how to replicate it.
 
-## Dead Easy To Use
+## Easy To Use
 
 Simply enable developer mode on a device and plug it into your computer. Ansight will immediately start and show you the logs and screen for the device.
 
@@ -21,13 +21,11 @@ Ansight is plug and play:
 
 ## Deep Application Insights
 
-Ansight records all thecapturing a screen recording, device logs, device details, app details and app memory usage in a single replayable file.
+Ansight records a screen recording, device logs, device details, app details and app memory usage in a single replayable file.
 
 With Ansight, you can:
 
  * View the live behaviour of a device and optionally target a specific app to monitor.
- * Record an testing session and then replay it. Correalate application and system-level events with a screen recording.
- * View and filter Android device logs with an easy to log viewer.
+ * Record a device session and then replay it. Correalate application and system-level events with a screen recording.
+ * View and filter incoming Android device logs with an easy to log viewer.
  * View the memory usage for a specific app.
-
-
