@@ -1,22 +1,33 @@
-# Ansight Releases
-All product releases for Ansight.
-
-Our latest release can be found at:
-
- * https://github.com/Ansight/ansight.releases/releases/latest
-
-## Powerful Android App Testing Insights
+## Android Testing Simplified
 
 Use Ansight to record, replay and analyse testing sessions of your Android apps.
 
+[Download Ansight Here](https://github.com/Ansight/ansight.releases/releases/latest)
+
+<img width="1136" alt="ansight-demo" src="https://user-images.githubusercontent.com/3260473/231393143-430889cb-afd7-400c-978c-e6c3b8a6ff5c.png">
+
 Simplify your teams communication; talk about how to solve the bug, not how to replicate it.
 
-Ansight records a screen-capture alongside the device logs and lets you replay them side by side.
+## Dead Easy To Use
 
-Ansight is plug and play 🔌
+Simply enable developer mode on a device and plug it into your computer. Ansight will immediately start and show you the logs and screen for the device.
+
+Ansight is plug and play:
 
  * It does not require any SDK's to be added to your apps.
  * It does not require any app's to be installed onto a users device.
- * Compatible with all Android development frameworks and tools.
+ * It does not require any developer tools on your computer.
+ * It is compatible with all Android development frameworks and tools.
 
-Once developer mode is enabled on a device, users can simply plug their device into their computer and start recording.
+## Deep Application Insights
+
+Ansight records all thecapturing a screen recording, device logs, device details, app details and app memory usage in a single replayable file.
+
+With Ansight, you can:
+
+ * View the live behaviour of a device and optionally target a specific app to monitor.
+ * Record an testing session and then replay it. Correalate application and system-level events with a screen recording.
+ * View and filter Android device logs with an easy to log viewer.
+ * View the memory usage for a specific app.
+
+
