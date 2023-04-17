@@ -26,6 +26,6 @@ Ansight records a screen recording, device logs, device details, app details and
 With Ansight, you can:
 
  * View the live behaviour of a device and optionally target a specific app to monitor.
- * Record a device session and then replay it. Correalate application and system-level events with a screen recording.
+ * Record a device session and then replay it. Correlate application and system-level events with a screen recording.
  * View and filter incoming Android device logs with an easy to log viewer.
  * View the memory usage for a specific app.
