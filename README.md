@@ -10,7 +10,7 @@ Simplify your teams communication; talk about how to solve the bug, not how to r
 
 ## Easy To Use
 
-Simply enable developer mode on a device and plug it into your computer. Ansight will immediately start and show you the logs and screen for the device.
+Enable developer mode on a device and then plug it into your computer. Ansight will immediately connect and show you the logs and screen for the device.
 
 Ansight is plug and play:
 
